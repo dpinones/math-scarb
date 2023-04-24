@@ -1,0 +1,2 @@
+[crate_roots]
+math_scarb = "src"
